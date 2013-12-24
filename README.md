@@ -1,6 +1,5 @@
-key transition statement
-====
 
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1,SHA512
 
@@ -60,3 +59,5 @@ Jiq2cdsxweFM0T58+700FGormNz2nFPDTm2FUOwBmsiQUaIvQd/PnsYgZk0Aiap7
 PKSGjVHSWZorlKRodQ+8kqAU3JV/rTlBfQ==
 =EstB
 -----END PGP SIGNATURE-----
+
+```
