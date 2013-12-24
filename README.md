@@ -7,8 +7,8 @@ From: Devin Carraway <devin@debian.org>
 Date: Tue Dec 24 07:56:46 UTC 2013
 
 I am transitioning away from my old and obsolete 1024-bit DSA key as it is no
-longer consistent with current best practices for the purposes it is intended
-for.  I am replacing it with a 4096-bit RSA key as described below.
+longer consistent with current best practices.  I am replacing it with a
+4096-bit RSA key as described below.
 
 The old key will remain usable for some time, but I would prefer the new key
 to be used wherever possible, and expect to use it for all future signing
@@ -44,20 +44,20 @@ Devin Carraway <devin@debian.org>
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iD8DBQFSuUNEU5XKDemr/NIRAryUAKCsOPp4T0W/wHyIVQ9tStiCD9EP0gCcDbk2
-//6SXlzHt/Jp7GM3Fc3kiGeJAhUDBQFSuUNEGqvciamMi7kBCpvWD/42w4mOYLip
-oGsIklaAYVg7LIGOCLV0+d9tpsBelcc1styXWFiymwe0Cb4Meze35QbrJyPg5XMh
-NJ5Mb60sLt8FLOvUqC8s/Tc5wtn0lLsGWKd4IxlyRvqvBBy6NfgD5MalPdMg2QLB
-gQBvHpDXdQObf6Wmb7YR8GeALeuQRzNNu7ftvr6fQCjkxEeZy1BPWyIXD9RAfkcF
-IObPtuT2Inxpxs6wuXaeNingNnJsvBe7UZJPESMaW1ci9lN+h5KjMGHnckSIiI9v
-AIUDzsQ7HSKBDYknxgJylW+cS9F6GVoldzRODSFVKWiQuEWKzoJ6STF0tvH/B0a8
-syWzLeu1CJq8O7txR+ajBuQLB+cptkGnL4NYo/KjRtq+rqwMDkKUTcsC7s7JVFPa
-pQ4y0npBLcRKYbZXodTPyY3+/BZQMNIBrslmnzTj0YEfZTLorxUfruTDdqbVhxrn
-Dbbxop0gQOjSoCulaDa5ynyS3J1VqVaz6DO9UAUskaY7ibGiRNsao4mxb+H5BH/s
-DtNsrvZV8wUivGreWrZXU6+/UKuSCKKEEBQZyVOp6HqTCJDrkGcT5wu/TZ97AdKx
-Jiq2cdsxweFM0T58+700FGormNz2nFPDTm2FUOwBmsiQUaIvQd/PnsYgZk0Aiap7
-PKSGjVHSWZorlKRodQ+8kqAU3JV/rTlBfQ==
-=EstB
+iD8DBQFSuUWHU5XKDemr/NIRAozEAKDVVLREp9Vphckoy3+ezHoQPEDkewCeLH76
+LOQ/h8m5U98Y9xyLY3gtQzuJAhUDBQFSuUWHGqvciamMi7kBCkxgD/92YR9Cj8mU
+aukvXjsqd/fiYACD3b1ZSLw3/r9t+kdbY6i63opwnNwOKPPH0Z6lwnBkZaZztJHe
+2ze2VqlhUkY1DgY2PLPZ8bny2OwY2KiZ6kwCdpmttLWss2cj0Mm2BXslwBjf898s
+KNjBRA8YaWw8VYgfRbGJDi7jC2gxzy9IzPgI9iuB4ofTS8elwaLBm5oCzAXAHusw
+yg9dmomJHDgX41nh0KNKV6rvVyaGoyQGFbrrqK4UHBFISB5cO+GFs/Jr9VaHLxT3
+5DfmeQe1KOy/nHrjukpTlOHv/G336MuVG9cHjnq69bwOOk9VXoj4CJKiGE/ViT4i
+drQ4zdpwXC9fQKPpNOuiPrILj8b1BT3RHurXWjS3nO0y0BDYSMdrvyhiWfTQHUT+
+6tTOWwIPYh8lN1hqX11GiXqqej9pdvgV7v/PhjmxmqxqYGqs5TGt38lchvxY/UFw
+3Atebnd6C5290Gvx03+FQrX0/S1/DI0CeG3hl7sSE8I8Rrb9XC8+jsrRiu5nzsGU
+K6qBcAzsmvhdHttgp7i3SrmVgJ+UqBZV9dj7rVWTmuwBczSsFl1PkFGg0oW04Fxl
+asm1eW/7YjSYFdg0co5sxzWp2h5kgGSUdbFliivPrOTp31yOjOzX0rWf0B7zdjvt
+EhMjeOMP4N2Sp5Z5danHMZ4n3JxI7SCr5A==
+=vWMY
 -----END PGP SIGNATURE-----
 
 ```

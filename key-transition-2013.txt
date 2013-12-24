@@ -2,8 +2,8 @@ From: Devin Carraway <devin@debian.org>
 Date: Tue Dec 24 07:56:46 UTC 2013
 
 I am transitioning away from my old and obsolete 1024-bit DSA key as it is no
-longer consistent with current best practices for the purposes it is intended
-for.  I am replacing it with a 4096-bit RSA key as described below.
+longer consistent with current best practices.  I am replacing it with a
+4096-bit RSA key as described below.
 
 The old key will remain usable for some time, but I would prefer the new key
 to be used wherever possible, and expect to use it for all future signing
