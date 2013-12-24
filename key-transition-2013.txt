@@ -1,9 +1,3 @@
-key transition statement
-====
-
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1,SHA512
-
 From: Devin Carraway <devin@debian.org>
 Date: Tue Dec 24 07:56:46 UTC 2013
 
@@ -42,21 +36,3 @@ transition statement:
 Thanks for your understanding.
 
 Devin Carraway <devin@debian.org>
------BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
-
-iD8DBQFSuUNEU5XKDemr/NIRAryUAKCsOPp4T0W/wHyIVQ9tStiCD9EP0gCcDbk2
-//6SXlzHt/Jp7GM3Fc3kiGeJAhUDBQFSuUNEGqvciamMi7kBCpvWD/42w4mOYLip
-oGsIklaAYVg7LIGOCLV0+d9tpsBelcc1styXWFiymwe0Cb4Meze35QbrJyPg5XMh
-NJ5Mb60sLt8FLOvUqC8s/Tc5wtn0lLsGWKd4IxlyRvqvBBy6NfgD5MalPdMg2QLB
-gQBvHpDXdQObf6Wmb7YR8GeALeuQRzNNu7ftvr6fQCjkxEeZy1BPWyIXD9RAfkcF
-IObPtuT2Inxpxs6wuXaeNingNnJsvBe7UZJPESMaW1ci9lN+h5KjMGHnckSIiI9v
-AIUDzsQ7HSKBDYknxgJylW+cS9F6GVoldzRODSFVKWiQuEWKzoJ6STF0tvH/B0a8
-syWzLeu1CJq8O7txR+ajBuQLB+cptkGnL4NYo/KjRtq+rqwMDkKUTcsC7s7JVFPa
-pQ4y0npBLcRKYbZXodTPyY3+/BZQMNIBrslmnzTj0YEfZTLorxUfruTDdqbVhxrn
-Dbbxop0gQOjSoCulaDa5ynyS3J1VqVaz6DO9UAUskaY7ibGiRNsao4mxb+H5BH/s
-DtNsrvZV8wUivGreWrZXU6+/UKuSCKKEEBQZyVOp6HqTCJDrkGcT5wu/TZ97AdKx
-Jiq2cdsxweFM0T58+700FGormNz2nFPDTm2FUOwBmsiQUaIvQd/PnsYgZk0Aiap7
-PKSGjVHSWZorlKRodQ+8kqAU3JV/rTlBfQ==
-=EstB
------END PGP SIGNATURE-----
